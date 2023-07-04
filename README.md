@@ -1,0 +1,2 @@
+This is Tip Calculator app built with HTML, CSS and Javascript.
+it calculates the total amount to be paid by multiplying the bill amount by tip amount and dividing the product by the number of people to share the bill.
